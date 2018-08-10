@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Rona</strong> Costello
+description: PhD student in the <a href="https://www.plants.ox.ac.uk/">Dept. Plant Sciences, Oxford University</a>
 
 profile:
   align: right
