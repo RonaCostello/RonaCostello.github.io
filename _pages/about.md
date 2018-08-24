@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Welcome to my page! My name is Rona and I'm a PhD student in the [Dept. Plant Sciences](https://www.plants.ox.ac.uk/){:target="\_blank"} at Oxford University. I'm interested in plant evolution and genetics and my PhD so far has primarily involved using bioinformatic techniques to study the evolution of plant cell organelles, such as the chloroplast and mitochondria. More information about my research can be found under [research](/research) and I'm based in the lab of [Dr. Steve Kelly](http://www.stevekellylab.com/){:target="\_blank"}.
+Welcome to my page! My name is Rona and I'm a PhD student in the [Dept. Plant Sciences](https://www.plants.ox.ac.uk/){:target="\_blank"} at Oxford University. I'm interested in plant evolution and genetics and my PhD so far has primarily involved using bioinformatic techniques to study the evolution of plant cell organelles, such as the chloroplast. More information about my research can be found under [research](/research) and I'm based in the lab of [Dr. Steve Kelly](http://www.stevekellylab.com/){:target="\_blank"}.
 
 ####  Background  ####
 
