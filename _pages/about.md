@@ -6,18 +6,22 @@ description: PhD student in the <a href="https://www.plants.ox.ac.uk/">Dept. Pla
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>not me, a nudibranch</p>
+    <p></p>
+    <p></p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my page! My name is Rona and I'm a PhD student in the [Dept. Plant Sciences](https://www.plants.ox.ac.uk/){:target="\_blank"} at Oxford University. I'm interested in plant evolution and genetics and my PhD so far has primarily involved using bioinformatic techniques to study the evolution of plant cell organelles, such as the chloroplast and mitochondria. More information about my research can be found under [research](/research) and I'm based in the lab of [Dr. Steve Kelly](http://www.stevekellylab.com/){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+####  Background  ####
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hailing from the South East of London, I then spent four years completing my undergraduate degree (an MBiolSci) in Biology at the University of Sheffield. During this time I did a masters project in the lab of [Prof. Andrew Fleming](http://fleminglab.group.shef.ac.uk/){:target="\_blank"} looking at identifying genes which underlie vein patterning in rice. Other research experience includes a summer spent at the John Innes Centre in the lab of [Prof. Robert Sablowski](https://www.jic.ac.uk/directory/robert-sablowski/){:target="\_blank"} investigating how meristems (a collection of dividing cells in plants which are responsible for new growth) are maintained.
+
+CV
+
+####  Other interests and activities  ####
